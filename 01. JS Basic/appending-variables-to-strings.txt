@@ -1,0 +1,4 @@
+// Change code below this line
+const someAdjective = "Super Super Fun";
+let myStr = "Learning to code is ";
+myStr += someAdjective
